@@ -1,6 +1,6 @@
 # Student Management System
 
-A terminal-based Java application designed to manage student records, course enrollments, and GPA calculations. This project was developed as a practical exercise to master **Object-Oriented Programming (OOP)** fundamentals during my second year of university.
+A terminal-based Java application designed to manage student records, course enrollments, and GPA calculations. This project was developed as a practical exercise to practice **Object-Oriented Programming (OOP)** fundamentals during my second year of university.
 
 ## 📌 Project Purpose
 The primary goal of this project was to implement core OOP concepts in a real-world scenario:
